@@ -65,6 +65,3 @@ After login, you will see:
 - Enter transfer amount in cents (or `0` to cancel)
 - If target exists and funds are enough, transfer succeeds
 
-## TXT submission for new feature
-If your instructor asks for a TXT file for the new feature, submit:
-- `Transfer.txt` (a text copy of `Transfer.java`)
